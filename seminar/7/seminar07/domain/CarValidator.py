@@ -1,0 +1,3 @@
+
+class CarValidator:
+    pass
